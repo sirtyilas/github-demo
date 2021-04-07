@@ -2,7 +2,7 @@ tracker on remote
 
 tracker now is staged
 
-dont copy this tracker
+dont copy this tracker in real world
 
 simple changes here
 
