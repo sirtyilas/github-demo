@@ -2,6 +2,6 @@ tracker on remote
 
 tracker now is staged
 
-dont copy this tracker
+dont copy this tracker fake world on master
 
 simple changes here
